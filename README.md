@@ -11,10 +11,10 @@ Dokumen ini memuat analisis perbandingan antara implementasi desain *wireframe* 
 Berikut adalah tampilan visual dari kedua implementasi untuk perbandingan:
 
 #### A. Desain 1: Implementasi Mandiri
-![Tampilan Desain 1 (Mandiri)](PENGISIAN ANDA DI SINI: LINK GAMBAR DESAIN 1)
+![Tampilan Desain 1](assets/manual.png)
 
 #### B. Desain 2: Implementasi Bantuan AI
-![Tampilan Desain 2 (Bantuan AI)](PENGISIAN ANDA DI SINI: LINK GAMBAR DESAIN 2)
+![Tampilan Desain 2](assets/ai.png)
 
 ---
 
